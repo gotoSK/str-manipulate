@@ -1,4 +1,4 @@
-# each char in string moved 2 step forward. eg.: hacker -> erhack
+# each char in string moved x step forward. eg.: hacker -> erhack
 
 inp = input("Enter a string: ")
 
